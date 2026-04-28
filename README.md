@@ -1,5 +1,5 @@
 # Sedai
-Fish Metacommunity simulation on a 3D dendritic network to show the exploitation-to-recovery dynamics
+Fish Metacommunity simulation on a 3D dendritic network to explore the connection between eco-evolutionary dynamics, hydrogeomorphology and governance
 
 This readme provides an introductory description of the spatially-explicit modeling framework used to simulate fish metacommunity dynamics in an hypothetical River basin. The model is implemented as a system of Ordinary Differential Equations (ODEs) that integrate local population dynamics, environmental filtering, and 3D dendritic dispersal.
 
