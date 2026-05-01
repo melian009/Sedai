@@ -1,0 +1,30 @@
+name = "SensitivityAnalysis"
+uuid = "c8b5e1f4-2f82-4a7e-9f4a-8e3c2d6f8a1b"
+version = "0.1.0"
+authors = ["Analysis Team"]
+
+[deps]
+CSV = "336ed68f-0bac-5ca0-87d4-7b16caf5d00b"
+CairoMakie = "13f3f980-e62b-5c42-98c6-ff1f3baf88f0"
+Colors = "5ae59095-9a9b-59fe-a467-6f913c188581"
+DataFrames = "a93c6f00-e57d-5684-b7b6-d8193f3e46c0"
+DifferentialEquations = "0c46a032-eb83-5123-abaf-570d42b7fbaa"
+GeoMakie = "db073c08-6b98-4ee5-b6a4-5efafb3259c6"
+JLD2 = "033835bb-8acc-5ee8-8aae-3f567f8a3819"
+LinearAlgebra = "37e2e46d-f89d-539d-b4ee-838fcccc9c8e"
+Makie = "ee78f7c6-11fb-53f2-987a-cfe4a2b5a57a"
+SparseArrays = "2f01184e-e22b-5df5-ae63-d93ebab69eaf"
+Statistics = "10745b16-79ce-11e8-11f9-7d13ad32a3b2"
+
+[compat]
+CSV = "0.10"
+CairoMakie = "0.15"
+Colors = "0.13"
+DataFrames = "1.8"
+DifferentialEquations = "7.17"
+GeoMakie = "0.7"
+JLD2 = "0.6"
+LinearAlgebra = "1.12"
+Makie = "0.24"
+SparseArrays = "1.12"
+Statistics = "1.11"
